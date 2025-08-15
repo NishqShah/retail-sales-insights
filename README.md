@@ -30,7 +30,7 @@ File: `sales_dashboard.pbix`
 - Slicers: Product Category, Month, Year.
 
 _Screenshot_
-![Sales Dashboard](sales_dashboard.jpg)
+![Sales Dashboard](images/sales_dashboard.jpg)
 
 ---
 
