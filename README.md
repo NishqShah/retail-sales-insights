@@ -59,12 +59,12 @@ The ML model failed due to leakage and noise — proving that some business metr
 ---
 
 ## Repository
-retail_sales_cleaning.sql
-sales_summary.csv
-retail_sales_ml_ready.csv
-sales_dashboard.pbix
-sales_dashboard.jpg
-sales_price_prediction.ipynb
-total_price_prediction.joblib
+- retail_sales_cleaning.sql
+- sales_summary.csv
+- retail_sales_ml_ready.csv
+- sales_dashboard.pbix
+- sales_dashboard.jpg
+- sales_price_prediction.ipynb
+- total_price_prediction.joblib
 
 ---
